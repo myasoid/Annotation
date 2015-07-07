@@ -1,0 +1,3 @@
+ClassName:com.gmail.miv.task3.SomeClass
+someInt:23
+AliasSomeString:Instance someClass
